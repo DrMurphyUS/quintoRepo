@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: quintoRepo
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/DrMurphyUS/quintoRepo
+Author: Murphy Sequeiros
+Author-email: medicosequeiros@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
